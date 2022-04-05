@@ -5,24 +5,29 @@
     <div class="circleAndH1">
         <div class="circleSt"></div>
         <bigText>
-            2022
+            2020
         </bigText>
     </div>
 
 
     <ul class="lin">
-        <li>Happy</li>
-    </ul>
-
-    <div class="circleAndH1">
-        <div class="circleSt"></div>
-        <bigText>
-            2021
-        </bigText>
-    </div>
-
-
-    <ul class="lin">
-        <li>Happy</li>
+        <li>
+            <a href="/MyPjs/2020/Sumdum_Wiki">Apr 27, Sumdum Wiki</a>
+        </li>
+        <li>
+            <a href="/MyPjs/2020/Sudoku">Jul 20, Sudoku</a>
+        </li>
+        <li>
+            <a href="/MyPjs/2020/OB">Aug 20, OB</a>
+        </li>
+        <li>
+            <a href="/MyPjs/2020/Oein_Command_Prompt">Sep 12, Oein_Command_Prompt</a>
+        </li>
+        <li>
+            <a href="/MyPjs/2020/O_Talk">Sep 30, O_Talk</a>
+        </li>
+        <li>
+            <a href="/MyPjs/2020/2cartoon">Nov 11, 2cartoon</a>
+        </li>
     </ul>
 </div>
