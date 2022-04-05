@@ -4,12 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      @font-face {
+          font-family: 'Cafe24Shiningstar';
+          src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Shiningstar.woff') format('woff');
+          font-weight: normal;
+          font-style: normal;
+      }
+  
+      .Title {
+          font-family: 'Cafe24Shiningstar';
+          font-size: 5vh;
+          color: black;
+      }
+    </style>
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
   <body>
+    <Header>
+        <a href="/" style="text-decoration: none">
+            <h1 class="Title">
+                Oein's site
+            </h1>
+        </a>
+    </Header>
     <div class="container-lg px-3 my-5 markdown-body">
       {{ content }}
     </div>
