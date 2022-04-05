@@ -12,8 +12,6 @@
     }
 
     .lin {
-      width: 2px;
-      height: 100px;
       border-left: 2px solid lightgray;
       list-style:none;
       list-style-type:none;
@@ -50,9 +48,9 @@
     }
 </style>
 
-<h1>About Me</h1>
-<h3>Oein</h3>
-<p>한국에 살고있는 평범한 초등학생 입니다!</p>
+# About Me
+### Oein
+한국에 살고있는 평범한 초등학생 입니다!
 <div>
     <div class="circleAndH1">
         <div class="circleSt"></div>
