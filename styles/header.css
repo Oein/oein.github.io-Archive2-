@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Cafe24Shiningstar';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Shiningstar.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.Title {
+    font-family: 'Cafe24Shiningstar';
+    font-size: 4em;
+    color: black;
+}
+
+.markdown-body {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+Header {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+Header a {
+  text-decoration: none;
+}

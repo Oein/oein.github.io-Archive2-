@@ -1,53 +1,3 @@
-<style>
-    .circleSt {
-      width: 10px;
-      height: 10px;
-      border-radius: 10px;
-      border-color: Silver;
-      border-style: solid;
-      border-width: 2px;
-      padding: 0px;
-      margin: 0px;
-      transform: translateY(30px);
-    }
-
-    .lin {
-      border-left: 2px solid lightgray;
-      list-style:none;
-      list-style-type:none;
-      padding: 0px;
-      margin-top: 0px;
-      margin-bottom: 0px;
-      margin-left: 4px;
-      padding-left: 40px;
-      padding-top: 10px;
-    }
-
-    .lin li {
-      word-wrap: normal;
-    }
-
-    .lin li a {
-      word-wrap: normal;
-    }
-
-    .circleAndH1 bigText {
-      margin: 0px;
-      padding: 0px;
-      font-size: 30px;
-      margin: 0px;
-      padding: 0px;
-      padding-left: 30px;
-    }
-
-    .circleAndH1 {
-      padding: 0px;
-      margin: 0px;
-      height: 40px;
-      padding-bottom: 2px;
-    }
-</style>
-
 # About Me
 ### Oein
 한국에 살고있는 평범한 초등학생 입니다!
@@ -58,7 +8,6 @@
             2020
         </bigText>
     </div>
-
 
     <ul class="lin">
         <li>
