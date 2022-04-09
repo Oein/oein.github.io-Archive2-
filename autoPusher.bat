@@ -7,5 +7,5 @@ git add * > temp
 git commit -a -m "Pushed by auto pusher at %date% - %time%" > temp
 git push > temp
 echo Commited!
-timeout 5
+timeout 60
 goto a
