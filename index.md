@@ -1,6 +1,20 @@
 # Main Page
 
-## [About Me](/Pages/aboutMe)
+## Pages
+<div>
+    <div class="circleAndH1">
+        <div class="circleSt"></div>
+        <bigText>
+            2022
+        </bigText>
+    </div>
+
+    <ul class="lin">
+        <li>
+            <a href="/Pages/aboutMe">Apr 9, About Me</a>
+        </li>
+    </ul>
+</div>
 
 ## Posts
 <div>
@@ -13,7 +27,7 @@
 
     <ul class="lin">
         <li>
-            <a href="/MyPjs/2020/Sumdum_Wiki">Apr 8, Discord Bot 만들기 with NodeJS</a>
+            <a href="/Docs/Discord/list">Apr 8, Discord Bot 만들기 with NodeJS</a>
         </li>
     </ul>
 </div>
