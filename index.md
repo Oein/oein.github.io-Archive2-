@@ -16,7 +16,7 @@
     </ul>
 </div>
 
-## Posts
+## Categories
 <div>
     <div class="circleAndH1">
         <div class="circleSt"></div>
